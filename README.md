@@ -1,4 +1,4 @@
-### 181013103 黄创维 18网络与新媒体三班 本项目为两人项目
+### 181013103 黄创维 18网络与新媒体三班 本项目为重考项目
 - [github地址](https://github.com/SKYWORTH0130/Python_Project)
 - [pythonanywhere地址](http://skyworth0130.pythonanywhere.com/)
 
